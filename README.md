@@ -1,4 +1,4 @@
-# day1
+# study vue.js
 
 ## Project setup
 ```
